@@ -1,0 +1,11 @@
+cub3d
+*.o
+mlx_linux/*.o
+mlx_linux/libmlx.a
+mlx_linux/libmlx_Linux.a
+mlx_linux/test/mlx-test
+mlx_linux/test/*.o
+mlx_linux/test/Makefile.gen
+mlx_linux/Makefile.mk
+screenshot.png
+screenshot.jpg
